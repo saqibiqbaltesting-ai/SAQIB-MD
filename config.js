@@ -6,7 +6,7 @@ const config = {
   BOT_VERSION: '1.0.0',
   PREFIX: process.env.PREFIX || '.',
   OWNER_NAME: process.env.OWNER_NAME || 'Attitude King',
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '000000000000', // set in .env, format: 92xxxxxxxxxx
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '923106762478', // set in .env, format: 92xxxxxxxxxx
   OWNER_EMAIL: process.env.OWNER_EMAIL || '',
   // AI providers (set in .env)
   GEMINI_API_KEY: process.env.GEMINI_API_KEY || '',
